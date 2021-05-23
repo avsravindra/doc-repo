@@ -1,3 +1,7 @@
+---
+author: avsravindra
+---
+
 #Installer
 
 Use the following steps to run the Installer
@@ -16,3 +20,6 @@ Use the following steps to run the Installer
 4) Once the installer is enabled to execute,  run the installer using the following command:
     
 		./<<installer>>
+
+------------
+Author: {{ page.author }}
