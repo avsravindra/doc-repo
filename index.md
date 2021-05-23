@@ -24,5 +24,5 @@ Use the following steps to run the Installer
 ------------
 Author: {{ page.author }}
 
-[mydoc] (topics/<mydoc.md>)
-[README] (topics/<README.md>)
+[mydoc] (main/<mydoc.md>)
+[README] (main/<README.md>)
