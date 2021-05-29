@@ -2,7 +2,7 @@
 author: avsravindra
 ---
 
-{ % include example_for_inlcudes.txt % }
+{% include example_for_inlcudes.txt %}
 
 # Installer
 
