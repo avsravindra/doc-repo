@@ -2,6 +2,8 @@
 author: avsravindra
 ---
 
+{ % include example_for_inlcudes.txt % }
+
 # Installer
 
 Use the following steps to run the Installer
